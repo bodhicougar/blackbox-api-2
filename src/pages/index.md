@@ -93,7 +93,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: BlackBox API
-  description: The preview of the Starter theme
+  description: API has come to stay.
   extra:
     - name: 'og:type'
       value: website
