@@ -92,7 +92,7 @@ sections:
     background_color: gray
 seo:
   type: stackbit_page_meta
-  title: Stackbit Starter Theme
+  title: BlackBox API
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
